@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+# datasets
+dataset/
+
+# models (IMPORTANT for your case)
+*.h5
+*.keras
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
